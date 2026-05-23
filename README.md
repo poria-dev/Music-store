@@ -56,8 +56,7 @@ inspiration, this project has something for you. 🎧
   <img src="screenshots/screenshot3.png" alt="Featured Tracks" 
   width="100%" style="border-radius: 10px;" />
 
-  <img src="screenshots/screenshot4.png" alt="Footer & Details" 
-  width="100%" style="border-radius: 10px;" />
+
 
 </div>
 
