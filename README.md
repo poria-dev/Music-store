@@ -7,13 +7,13 @@
 ![Flexbox](https://img.shields.io/badge/Flexbox-✔-glod?style=for-the-badge)
 ![Grid](https://img.shields.io/badge/CSS_Grid-✔-ff69b4?style=for-the-badge)
 
----
+-------
 
 ## 🌐 Live Demo
 
 🔗 [Click here to visit the live site](https://poria-dev.github.io/Music-store/)
 
----
+-----
 
 ## ✨ About The Project
 
