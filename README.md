@@ -60,7 +60,7 @@ inspiration, this project has something for you. 🎧
 
 </div>
 
----
+----
 
 ## 🛠️ Built With
 
