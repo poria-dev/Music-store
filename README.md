@@ -47,13 +47,13 @@ inspiration, this project has something for you. 🎧
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;">
 
-  <img src="screenshots/screenshots1.png" alt="Home Page" 
+  <img src="screenshots/screenshots2.png.png" alt="Home Page" 
   width="100%" style="border-radius: 10px;" />
 
-  <img src="screenshots/screenshots1.png" alt="Music Section" 
+  <img src="screenshots/screenshots1.png.png" alt="Music Section" 
   width="100%" style="border-radius: 10px;" />
 
-  <img src="screenshots/screenshots1.png" alt="Featured Tracks" 
+  <img src="screenshots/screenshots3.png.png" alt="Featured Tracks" 
   width="100%" style="border-radius: 10px;" />
 
 
