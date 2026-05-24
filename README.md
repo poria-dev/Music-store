@@ -43,7 +43,7 @@ inspiration, this project has something for you. 🎧
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshots 🌹📸
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;">
 
