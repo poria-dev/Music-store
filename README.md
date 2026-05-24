@@ -28,7 +28,7 @@ JavaScript to make something look incredible.
 Whether you're a music lover or a developer looking for clean UI
 inspiration, this project has something for you. 🎧
 
----
+----
 
 ## 🚀 Features
 
