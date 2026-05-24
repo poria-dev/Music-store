@@ -19,7 +19,7 @@
 
 Music Store is a modern and visually stunning front-end web project
 dedicated to showcasing the hottest tracks and the finest Iranian music
-arrangements (Aranye). 
+arrangements (Aranye)...
 
 This project was built with pure HTML5 and CSS3 — no frameworks,
 no shortcuts — just clean, handcrafted code that proves you don't need
